@@ -1,3 +1,7 @@
+# Python-project
+Python Projects Repository This repository contains a collection of Python projects, including a Tic Tac Toe game and a Card game.
+
+
 Tic Tac Toe
 
 The Tic Tac Toe game is a classic two-player game where players take turns marking X or O on a 3x3 grid. The objective is to get three marks in a row, either horizontally, vertically, or diagonally. The game is implemented using Python and provides a user-friendly command-line interface.
@@ -10,5 +14,3 @@ Both projects are designed to showcase fundamental programming concepts, includi
 
 Feel free to explore the source code, contribute improvements, or use these projects as a learning resource for Python programming.
 
-# Python-project
-Python Projects Repository This repository contains a collection of Python projects, including a Tic Tac Toe game and a Card game.
